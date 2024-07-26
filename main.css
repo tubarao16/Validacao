@@ -1,0 +1,21 @@
+html{
+    background-image: url("the-blue-flower-5322087_1280.jpg");
+    background-position: center;
+    background-size: cover;
+    color: rgb(255, 248, 248);
+   
+   
+   
+}
+.contem{
+   display: flex;
+   align-items: center;
+   height: 100vh;
+   justify-content: center;
+   flex-direction: column;
+ 
+}
+#message{
+    color: black;
+    font-weight: 800;
+}
